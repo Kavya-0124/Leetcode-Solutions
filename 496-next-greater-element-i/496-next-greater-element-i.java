@@ -20,7 +20,7 @@ class Solution
                 if(nums2[k]<=nums2[l])
                 {
                     nums1[i]=nums2[l];
-                    continue outer;
+                    continue  outer;
                 }
             }
             nums1[i]=-1;
