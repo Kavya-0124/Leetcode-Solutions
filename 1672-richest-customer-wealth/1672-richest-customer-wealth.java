@@ -15,7 +15,7 @@ class Solution
                 sum+=accounts[i][j];
                 
             }
-            max=Math.max(sum,max);
+           max=Math.max(sum,max);
         }
         return max;
     }
