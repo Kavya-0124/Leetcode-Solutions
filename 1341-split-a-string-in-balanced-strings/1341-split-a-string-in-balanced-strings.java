@@ -1,13 +1,18 @@
 class Solution {
     public int balancedStringSplit(String s) {
-        int temp=0;
-        int sum=0;
+        int r=0,ans=0;
         for(int i=0;i<s.length();i++){
-            char c=s.charAt(i);
-            if(c=='R') temp++;
-            if(c=='L') temp--;
-            if(temp==0) sum++;
+            if(s.charAt(i)=='R'){
+                r++;
+            }
+            else{
+                r--;
+            }
+            if(r==0){
+                ans++;
+            }
+        
         }
-        return sum;
+        return ans;
     }
 }
