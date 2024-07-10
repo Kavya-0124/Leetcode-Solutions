@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2154-minimum-moves-to-convert-string](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/2154-minimum-moves-to-convert-string) |
 ## Greedy
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2154-minimum-moves-to-convert-string](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/2154-minimum-moves-to-convert-string) |
 ## Two Pointers
 |  |
 | ------- |
