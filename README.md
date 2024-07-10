@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Greedy
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,8 +29,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Math
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
+## Backtracking
+|  |
+| ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
+## Enumeration
+|  |
+| ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 <!---LeetCode Topics End-->
