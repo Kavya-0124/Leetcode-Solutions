@@ -60,4 +60,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
+## Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
