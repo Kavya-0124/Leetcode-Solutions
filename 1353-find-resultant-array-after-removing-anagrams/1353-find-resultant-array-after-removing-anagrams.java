@@ -1,19 +1,16 @@
 class Solution {
     public List<String> removeAnagrams(String[] words) {
-        int n=words.length;
-        List<Map<Character, Integer>> freq=new ArrayList<>();
-        for(String w:words){
-            Map<Character,Integer> map = new HashMap<>();
-            for(char c:w.toCharArray())
-                map.put(c,map.getOrDefault(c,0)+1);
-            freq.add(map);
+        String prev="";
+        List<String> li=new ArrayList<>();
+        for(int i=0;i<words.length;i++){
+            char[] ch=words[i].toCharArray();
+            Arrays.sort(ch);
+            String curr=String.valueOf(ch);
+            if(!curr.equals(prev)){
+                li.add(words[i]);
+                prev=curr;
+            }
         }
-        List<String> ans=new ArrayList<>();
-        ans.add(words[0]);
-        for(int i=1;i<n;i++){
-            if(!freq.get(i).equals(freq.get(i-1)))
-            ans.add(words[i]);
-        }
-        return ans;
+        return li;
     }
 }
