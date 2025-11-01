@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3227-find-missing-and-repeated-values](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3227-find-missing-and-repeated-values](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
 |  |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
+## Linked List
+|  |
+| ------- |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
