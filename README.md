@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0169-majority-element](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
