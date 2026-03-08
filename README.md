@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1980-find-unique-binary-string](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0169-majority-element](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Divide and Conquer
 | Problem Name | Difficulty |
