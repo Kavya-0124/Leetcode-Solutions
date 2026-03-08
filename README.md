@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1980-find-unique-binary-string](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3227-find-missing-and-repeated-values](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2032-largest-odd-number-in-string](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2154-minimum-moves-to-convert-string](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/2154-minimum-moves-to-convert-string) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1980-find-unique-binary-string](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3227-find-missing-and-repeated-values](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
