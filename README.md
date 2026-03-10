@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0169-majority-element](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0198-house-robber](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
