@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 ## Array
 | Problem Name | Difficulty |
@@ -147,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
