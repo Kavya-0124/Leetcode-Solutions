@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [2032-largest-odd-number-in-string](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [3227-find-missing-and-repeated-values](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0198-house-robber](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/0198-house-robber/) | Medium |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
