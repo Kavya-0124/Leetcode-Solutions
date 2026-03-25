@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3227-find-missing-and-repeated-values](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
