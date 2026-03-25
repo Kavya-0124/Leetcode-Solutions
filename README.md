@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3227-find-missing-and-repeated-values](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Sorting
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [3227-find-missing-and-repeated-values](https://github.com/Kavya-0124/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -166,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/0062-unique-paths/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/Kavya-0124/Leetcode-Solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 <!---LeetCode Topics End-->
